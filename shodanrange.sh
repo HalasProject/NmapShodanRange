@@ -64,4 +64,5 @@ for ((i=1;i<255;i++));do
 	echo
 	
 done
-echo "$founded" > shodancidr.txt
+#enable this for output resultat
+#echo "$founded" > shodancidr.txt
