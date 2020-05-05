@@ -2,4 +2,4 @@
 Analyse a range ip using nmap for shodan
 
 ```
-./shodancidr.sh <target>
+./shodanrange.sh <target>
