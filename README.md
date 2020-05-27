@@ -8,6 +8,7 @@ Add your API Key in the `api` variable inside the script code
 
 ```
 ./shodanrange.sh <target>
+```
 
 <p align="center">
    <img src="https://i.ibb.co/zHdKpsJ/salahbentayeb.png" />
